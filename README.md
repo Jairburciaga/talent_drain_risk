@@ -43,7 +43,7 @@ The model's scoring output is seamlessly integrated into an interactive **Tablea
 
 | 🔗 **Link to Tableau Dashboard** |
 | :--- |
-| **[INSERT TABLEAU DASHBOARD LINK HERE]** |
+| **https://public.tableau.com/views/TalentDrainRisk/TalentDrainRisk?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link** |
 
 ## 📦 Repository Contents
 
